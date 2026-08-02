@@ -103,6 +103,7 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.migrations
 
 # Chutzpah Test files
 _Chutzpah*
