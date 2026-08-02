@@ -2,7 +2,7 @@
 
 * Download or clone the repository
 ```
-https://github.com/noroff-backend-2/mar24ft-ep2-peterporridge.git
+https://github.com/aasmund92/Exam-project.git
 ```
 
 * Create your database with mySQL and then modify your appsettings.json file in the Backend directory with your own database name, username and password
